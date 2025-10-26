@@ -19,7 +19,7 @@
 |----------|-------------|
 | 🎰 [Unity Slot Machine](https://github.com/RiaCody/Unity-Slot-Machine) | Modular Unity C# prototype demonstrating clean architecture and gameplay logic. |
 | 📧 [Python Email Automation](#) | Automates inbox downloads and file processing with Python. |
-| 📊 [Data Analytics Dashboard](#) | SQL + Power BI analytics project showcasing KPI insights. |
+| 📊 [ Python_Chance_Game](#) |  | text-based adventure game built in Python where the player navigates through random encounters, testing logic and probability.
 | 🧱 [Simple Port Scanner](https://github.com/RiaCody/Simple-Port-Scanner) | Network scanning tool demonstrating socket programming and security checks. |
 
 ---
