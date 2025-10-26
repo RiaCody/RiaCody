@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Maria  
 
-<!--
-**RiaCody/RiaCody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer | Game & Cloud Developer | GitHub Creator**  
 
-Here are some ideas to get you started:
+🎮 Currently exploring **Unity (C#)** while building automation and analytics tools in **Python**.  
+☁️ Passionate about **clean architecture**, **CI/CD**, and **creative software engineering**.  
+🧠 Always learning — because curiosity drives the best ideas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack  
+**Languages:** Python · C# · Java · SQL · JavaScript  
+**Tools & Platforms:** Unity · Azure · Power BI · Jenkins · GitHub Actions · VS Code  
+
+---
+
+### 📂 Featured Projects  
+| Project | Description |
+|----------|-------------|
+| 🎰 [Unity Slot Machine](https://github.com/RiaCody/Unity-Slot-Machine) | Modular Unity C# prototype demonstrating clean architecture and gameplay logic. |
+| 📧 [Python Email Automation](#) | Automates inbox downloads and file processing with Python. |
+| 📊 [Data Analytics Dashboard](#) | SQL + Power BI analytics project showcasing KPI insights. |
+| 🧱 [Simple Port Scanner](https://github.com/RiaCody/Simple-Port-Scanner) | Network scanning tool demonstrating socket programming and security checks. |
+
+---
+
+☕ *Powered by curiosity and caffeine.*
