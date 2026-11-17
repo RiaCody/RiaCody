@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maria  
 
-💻 **Software Engineer | Game & Cloud Developer | GitHub Creator**  
+💻 **Data Centre Engineer | Game & Cloud Developer | **  
 
 🎮 Currently exploring **Unity (C#)** while building automation and analytics tools in **Python**.  
 ☁️ Passionate about **clean architecture**, **CI/CD**, and **creative software engineering**.  
