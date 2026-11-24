@@ -1,18 +1,11 @@
-# 👋 Hi, I'm Maria  
+## Hi, I’m Ria 👋
 
-💻 **Data Centre Engineer | Game & Cloud Developer | **  
+ **Critical Environment Technician @ Microsoft · Cyber Security Major @ Deakin**
 
-🎮 Currently exploring **Unity (C#)** while building automation and analytics tools in **Python**.  
-☁️ Passionate about **clean architecture**, **CI/CD**, and **creative software engineering**.  
-🧠 Always learning — because curiosity drives the best ideas.  
+I’m passionate about data centres and the critical infrastructure that keeps them running. My work focuses on power, cooling, and monitoring, and I’m especially interested in how cyber security applies to the systems that support critical operations.
 
----
+Outside work, I build small apps, automate repetitive tasks, and experiment with game development.
 
-### 🔧 Tech Stack  
-**Languages:** Python · C# · Java · SQL · JavaScript  
-**Tools & Platforms:** Unity · Azure · Power BI · Jenkins · GitHub Actions · VS Code  
-
----
 
 ### 📂 Featured Projects  
 | Project | Description |
